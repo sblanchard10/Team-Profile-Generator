@@ -33,3 +33,7 @@ You will need Node.js to run this application
 ## Questions
 
 If you have questions, email me at [sblanchard10@yahoo.com](mailto:sblanchard10@yahoo.com) or reach out on [GitHub](https://www.github.com/sblanchard10).
+
+## Screencastify Link
+
+https://watch.screencastify.com/v/cZMUQwZE4yQyIHTWjxS6
